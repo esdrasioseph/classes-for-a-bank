@@ -1,0 +1,20 @@
+{
+  "name": "classes-for-a-bank",
+  "version": "1.0.0",
+  "description": "Simulador bancário desenvolvido como exercício de fixação de POO em JavaScript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "poo",
+    "oop",
+    "classes",
+    "bank"
+  ],
+  "author": "Esdras Ioseph Brandão",
+  "license": "ISC"
+}
+
